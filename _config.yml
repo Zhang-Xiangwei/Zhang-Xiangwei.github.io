@@ -31,15 +31,6 @@ collections:
   publication:
     output: true
     sort_by: date
-  activity:
-    output: true
-    sort_by: date
-  group:
-    output: true
-    sort_by: date
-  news:
-    output: true
-    sort_by: date
   search:
     output: true
     sort_by: date
