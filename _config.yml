@@ -28,9 +28,6 @@ collections:
   research:
     output: true
     sort_by: date
-  publication:
-    output: true
-    sort_by: date
   contact:
     output: true
     sort_by: date

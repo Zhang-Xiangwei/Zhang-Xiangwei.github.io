@@ -22,14 +22,6 @@ Ph.D Student
 </div>
 <div class="col-md-8" markdown="1">
 
-## Appointments
-
-<table class="homepage-table">
-  <tbody>
-
-  </tbody>
-</table>
-
 ## Education
 
 <table class="homepage-table">
@@ -40,6 +32,11 @@ Ph.D Student
       <td valign="top">National School of Development, Peking University</td>
     </tr>
     <tr>
+      <td valign="top"><ul><li>2024-2025(expected)</li></ul></td>
+      <td width="180">Visiting Scholar</td>
+      <td valign="top">Charles H. Dyson School of Applied Economics and Management, Cornell University</td>
+    </tr>
+    <tr>
       <td valign="top"><ul><li>2017-2021</li></ul></td>
       <td valign="top">Bachelor of Science</td>
       <td valign="top">College of Environmental Sciences and Engineering, Peking University</td>
@@ -47,14 +44,25 @@ Ph.D Student
   </tbody>
 </table>
 
-## Research Area
+## Research Fields
 
 - Environmental Economics and Climate Change Economics
 - Health Economics
 - Developpment Economics
 
-## Teaching Assistant Experience
 
-- Undergraduate: Macroeconomics, Enviromental Economicns
+## Appointments
+
+<table class="homepage-table">
+  <tbody>
+
+  </tbody>
+</table>
+
+## Teaching 
+
+- TA for Undergraduate: Macroeconomics, Enviromental Economicns
+
+You can download a PDF copy of my CV here.
 </div>
 </div>
