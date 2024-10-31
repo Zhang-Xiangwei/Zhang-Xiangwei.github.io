@@ -6,11 +6,15 @@ research:
   en: Research
   zh: 研究方向
   link: /research/
-fundings:
-  en: Fundings
-  zh: 科研项目
-  link: /fundings/
+CV:
+  en: CV
+  zh: 简历
+  link: /CV/
 publication:
   en: Publication
-  zh: 论文著作
+  zh: 发表
   link: /publication/
+contact:
+  en: Ccontact
+  zh: 联系方式
+  link: /contact/

@@ -25,13 +25,13 @@ collections:
   research:
     output: true
     sort_by: date
-  fundings:
+  CV:
     output: true
     sort_by: date
   publication:
     output: true
     sort_by: date
-  search:
+  contact:
     output: true
     sort_by: date
 collections_dir: pages
@@ -58,11 +58,10 @@ kramdown:
     css_class: "highlight"
 locale: zh_CN
 markdown: kramdown
-name: Guannan He Research Group
-name_zh: 何冠楠课题组
+name: Ding Ma
 plugins:
   - jekyll-sitemap
   - jekyll-sass-converter
-timezone: Asia/Shanghai
-title: Guannan He Research Group
-url: https://www.guannanhe.com
+timezone: Asia/Beijing
+title: Ding's Website
+url: #ulrl
