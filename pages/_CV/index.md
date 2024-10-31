@@ -83,7 +83,7 @@ Ph.D Student
 
 ---
 
-You can download a PDF copy of my CV [here]({{ "/asset/pdf/CV.pdf" | relative_url }}).
+You can download a PDF copy of my CV [here]({{ "/asset/pdf/CV.pdf"}}).
 
 </div>
 </div>

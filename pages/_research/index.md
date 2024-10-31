@@ -28,16 +28,16 @@ Ph.D Student
 
 ## <font face="Garamond" size=5>Publications</font>
 
-### - [xxxxxx]({{ "/research/paper01.html" | relative_url }})
+- ### [xxxxxx]({{ "/research/paper01.html" | relative_url }})
 
 ---
 
 ## <font face="Garamond" size=5>Working Paper</font>
 
-### - [xxxxxx]({{ "/research/paper01.html" | relative_url }})
+- ### [xxxxxx]({{ "/research/paper01.html" | relative_url }})
 
 ---
 
 ## <font face="Garamond" size=5>Work in Progress</font>
 
-### - [xxxxxx]({{ "/research/paper01.html" | relative_url }})
+- ### [xxxxxx]({{ "/research/paper01.html" | relative_url }})
