@@ -57,6 +57,9 @@ Ph.D Student
 ## Awards
 
 
+## Seminars and Converences
+
+
 ## Teaching Experiences
 
 - TA for Undergraduate: Macroeconomics, Enviromental Economicns
@@ -80,7 +83,7 @@ Ph.D Student
 
 ---
 
-You can download a PDF copy of my CV [here]({{ "/research/paper01.html" | relative_url }}).
+You can download a PDF copy of my CV [here]({{ "/asset/pdf/CV.pdf" | relative_url }}).
 
 </div>
 </div>
