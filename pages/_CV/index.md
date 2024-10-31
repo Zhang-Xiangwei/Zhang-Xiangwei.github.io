@@ -22,17 +22,21 @@ Ph.D Student
 </div>
 <div class="col-md-8" markdown="1">
 
+# CV
+
+---
+
 ## Education
 
 <table class="homepage-table">
   <tbody>
     <tr>
-      <td valign="top"><ul><li>2021-2026(expected)</li></ul></td>
+      <td valign="top"><ul><li>2021-2026 (expected)</li></ul></td>
       <td width="180">PhD</td>
       <td valign="top">National School of Development, Peking University</td>
     </tr>
     <tr>
-      <td valign="top"><ul><li>2024-2025(expected)</li></ul></td>
+      <td valign="top"><ul><li>2024-2025 (expected)</li></ul></td>
       <td width="180">Visiting Scholar</td>
       <td valign="top">Charles H. Dyson School of Applied Economics and Management, Cornell University</td>
     </tr>
@@ -50,19 +54,33 @@ Ph.D Student
 - Health Economics
 - Developpment Economics
 
+## Awards
 
-## Appointments
 
-<table class="homepage-table">
-  <tbody>
-
-  </tbody>
-</table>
-
-## Teaching 
+## Teaching Experiences
 
 - TA for Undergraduate: Macroeconomics, Enviromental Economicns
+- TA for graudate: Urban Economics in Developing Countries (in English)
 
-You can download a PDF copy of my CV here.
+## Professional Services
+
+- Referee for China Economic Review, China Economic Quarterly International, and China Economic Quarterly (Chinese version)
+
+## Skills
+
+- Stata, R, ArcGIS, Matlab, LATEX
+
+## Languages
+
+- Chinese (native), English (fluent)
+
+## References
+
+
+
+---
+
+You can download a PDF copy of my CV [here]({{ "/research/paper01.html" | relative_url }}).
+
 </div>
 </div>

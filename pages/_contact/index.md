@@ -4,16 +4,37 @@ title: Contact
 no_heading: true
 ---
 
+<div class="row">
+<div class="col-md-4" markdown="1">
+<div class="site-personal-heading" markdown="1">
+![]({{ "/assets/images/profile2.jpg" | relative_url }})
+
 ## Ding Ma
 
-National School of Development,
+Ph.D Student
+</div>
+<div class="site-personal-info" markdown="1">
+- <span class="icon icon-google-scholar"></span> [Google Scholar](https://scholar.google.com)
+- <span class="icon icon-github"></span> [GitHub](https://github.com)
+- <span class="icon icon-orcid"></span> [ORCID](https://orcid.org)
+- <span class="icon icon-linkedin"></span> [LinkedIn](https://www.linkedin.com)
+- <span class="icon icon-researchgate"></span> [ResearchGate](https://www.researchgate.net)
+</div>
+</div>
+<div class="col-md-8" markdown="1">
 
-Peking University,
+# <font face="Garamond" size=8>Contact</font>
 
-No.5 Yiheyuan Road, Haidian District, 
+---
 
-Beijing 100871, P.R.China
+<font face="Garamond" size=4>National School of Development, </font>  
 
-Email: d.ma@pku.edu.cn
+<font face="Garamond" size=4>Peking University,</font> 
 
-Phone: +86-13780340059
+<font face="Garamond" size=4>No.5 Yiheyuan Road, Haidian District,</font> 
+
+<font face="Garamond" size=4>Beijing 100871, P.R.China</font> <br />
+
+<font face="Garamond" size=4>Email: d.ma@pku.edu.cn</font>
+
+<font face="Garamond" size=4>Phone: +86-13780340059</font> 
