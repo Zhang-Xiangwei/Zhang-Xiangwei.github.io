@@ -1,20 +1,15 @@
 homepage:
   en: Homepage
-  zh: 个人介绍
   link: /
-research:
-  en: Research
-  zh: 研究方向
-  link: /research/
 CV:
   en: CV
-  zh: 简历
   link: /CV/
+research:
+  en: Research
+  link: /research/
 publication:
   en: Publication
-  zh: 发表
   link: /publication/
 contact:
-  en: Ccontact
-  zh: 联系方式
+  en: Contact
   link: /contact/
