@@ -37,7 +37,7 @@ Ph.D Student
 ## Working Paper
 
 <ul>
-<li><a href="{{ "/research/paper01.html" | relative_url }}">PAPER1</a> <span class="label label-default">type1</span><ul><li>Presented at xxx</li></ul><details><summary>[Abstract]</summary>xxxxx.</details></li>
+<li>PAPER1 <span class="label label-default">type1</span><ul><li>Presented at xxx</li></ul><details><summary>[Abstract]</summary>xxxxx.</details></li>
 <li><a href="{{ "/research/paper01.html" | relative_url }}">PAPER2</a><details><summary>[Abstract]</summary>xxxxx.</details></li>
 </ul>
 
