@@ -25,10 +25,7 @@ Ph.D Student
 </div>
 <div class="col-md-8" markdown="1">
 
-# <font size=8>Research</font>
----
-
-## <font size=5>Publications</font>
+## Publications
 
 <ul>
 <li><a href="{{ "/research/paper01.html" | relative_url }}">PAPER1</a> <span class="label label-default">type1</span><ul><li>Presented at xxx</li></ul><details><summary>[Abstract]</summary>xxxxx.</details></li>
@@ -37,7 +34,7 @@ Ph.D Student
 
 ---
 
-## <font size=5>Working Paper</font>
+## Working Paper
 
 <ul>
 <li><a href="{{ "/research/paper01.html" | relative_url }}">PAPER1</a> <span class="label label-default">type1</span><ul><li>Presented at xxx</li></ul><details><summary>[Abstract]</summary>xxxxx.</details></li>
@@ -46,7 +43,7 @@ Ph.D Student
 
 ---
 
-## <font size=5>Work in Progress</font>
+## Work in Progress
 
 <ul>
 <li><a href="{{ "/research/paper01.html" | relative_url }}">PAPER1</a> <span class="label label-default">type1</span><ul><li>Presented at xxx</li></ul><details><summary>[Abstract]</summary>xxxxx.</details></li>

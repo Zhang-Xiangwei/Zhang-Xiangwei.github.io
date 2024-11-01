@@ -24,10 +24,6 @@ Ph.D Student
 </div>
 <div class="col-md-8" markdown="1">
 
-# CV
-
----
-
 ## Education
 
 <table class="homepage-table">

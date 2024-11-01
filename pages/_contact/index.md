@@ -25,9 +25,7 @@ Ph.D Student
 </div>
 <div class="col-md-8" markdown="1">
 
-# <font face="Garamond" size=8>Contact</font>
-
----
+## Contact
 
 National School of Development,
 
