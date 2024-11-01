@@ -7,7 +7,7 @@ no_heading: true
 <div class="row">
 <div class="col-md-4" markdown="1">
 <div class="site-personal-heading" markdown="1">
-![]({{ "/assets/images/profile2.jpg" | relative_url }})
+![]({{ "/assets/images/profile2.png" | relative_url }})
 
 ## Ding Ma
 
@@ -28,7 +28,11 @@ Ph.D Student
 
 ## <font face="Garamond" size=5>Publications</font>
 
-- ### [xxxxxx]({{ "/research/paper01.html" | relative_url }})
+<ul>
+<li><a href="{{ "/research/paper01.html" | relative_url }}">PAPER1</a> <span class="label label-default">type1</span><ul><li>Presented at xxx</li></ul><details><summary>[Abstract]</summary>xxxxx.</details></li>
+<li><a href="{{ "/research/paper01.html" | relative_url }}">PAPER2</a><details><summary>[Abstract]</summary>xxxxx.</details></li>
+</ul>
+
 
 ---
 

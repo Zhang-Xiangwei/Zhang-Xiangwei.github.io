@@ -1,22 +1,3 @@
-algolia:
-  # Replace it with "Application ID", from "Settings" -> "API Keys".
-  application_id: "NO3SXSOXCK"
-  index_name: "site"
-  nodes_to_index: "p,h2,h3,h4,td,li"
-  files_to_exclude:
-    - pages/_search/*
-    - pages/_news/index*
-  settings:
-    searchableAttributes:
-      - title
-      - unordered(content)
-    attributesToHighlight:
-      - content
-      - tags
-      - title
-    attributesForFaceting:
-      - language
-      - collection
 collections:
   homepage:
     output: true
@@ -36,6 +17,7 @@ defaults:
   - values:
       layout: "default"
       language: en
+      no_lang_link: true
   - scope:
       type: "posts"
     values:
@@ -60,4 +42,4 @@ plugins:
   - jekyll-sass-converter
 timezone: Asia/Beijing
 title: Ding's Website
-url: #ulrl
+url: #url
