@@ -13,6 +13,8 @@ no_heading: true
 Ph.D Student
 </div>
 <div class="site-personal-info" markdown="1">
+- <span class="icon icon-office"></span> Beijing, China
+- <span class="icon icon-mail"></span> [Email](mailto:d.ma@pku.edu.cn)
 - <span class="icon icon-google-scholar"></span> [Google Scholar](https://scholar.google.com)
 - <span class="icon icon-github"></span> [GitHub](https://github.com)
 - <span class="icon icon-orcid"></span> [ORCID](https://orcid.org)
@@ -63,11 +65,11 @@ Ph.D Student
 ## Teaching Experiences
 
 - TA for Undergraduate: Macroeconomics, Enviromental Economicns
-- TA for graudate: Urban Economics in Developing Countries (in English)
+- TA for Graudate: Urban Economics in Developing Countries (in English)
 
 ## Professional Services
 
-- Referee for China Economic Review, China Economic Quarterly International, and China Economic Quarterly (Chinese version)
+- Referee for China Economic Review, China Economic Quarterly International, China Economic Quarterly (Chinese version)
 
 ## Skills
 
@@ -83,7 +85,7 @@ Ph.D Student
 
 ---
 
-You can download a PDF copy of my CV [here]({{ "/assets/pdf/CV.pdf"}}).
+You can also download a PDF copy of my CV [here]({{ "/assets/pdf/CV.pdf"}}).
 
 </div>
 </div>

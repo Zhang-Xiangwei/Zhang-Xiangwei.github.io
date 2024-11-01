@@ -14,6 +14,8 @@ no_heading: true
 Ph.D Student
 </div>
 <div class="site-personal-info" markdown="1">
+- <span class="icon icon-office"></span> Beijing, China
+- <span class="icon icon-mail"></span> [Email](mailto:d.ma@pku.edu.cn)
 - <span class="icon icon-google-scholar"></span> [Google Scholar](https://scholar.google.com)
 - <span class="icon icon-github"></span> [GitHub](https://github.com)
 - <span class="icon icon-orcid"></span> [ORCID](https://orcid.org)
@@ -27,14 +29,14 @@ Ph.D Student
 
 ---
 
-<font face="Garamond" size=4>National School of Development, </font>  
+National School of Development,
 
-<font face="Garamond" size=4>Peking University,</font> 
+Peking University,
 
-<font face="Garamond" size=4>No.5 Yiheyuan Road, Haidian District,</font> 
+No.5 Yiheyuan Road, Haidian District,
 
-<font face="Garamond" size=4>Beijing 100871, P.R.China</font> <br />
+Beijing 100871, P.R.China<br />
 
-<font face="Garamond" size=4>Email: d.ma@pku.edu.cn</font>
+Email: d.ma@pku.edu.cn
 
-<font face="Garamond" size=4>Phone: +86-13780340059</font> 
+Phone: +86-13780340059

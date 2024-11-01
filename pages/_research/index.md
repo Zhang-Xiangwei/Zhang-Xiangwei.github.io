@@ -14,6 +14,8 @@ no_heading: true
 Ph.D Student
 </div>
 <div class="site-personal-info" markdown="1">
+- <span class="icon icon-office"></span> Beijing, China
+- <span class="icon icon-mail"></span> [Email](mailto:d.ma@pku.edu.cn)
 - <span class="icon icon-google-scholar"></span> [Google Scholar](https://scholar.google.com)
 - <span class="icon icon-github"></span> [GitHub](https://github.com)
 - <span class="icon icon-orcid"></span> [ORCID](https://orcid.org)
@@ -23,25 +25,30 @@ Ph.D Student
 </div>
 <div class="col-md-8" markdown="1">
 
-# <font face="Garamond" size=8>Research</font>
+# <font size=8>Research</font>
 ---
 
-## <font face="Garamond" size=5>Publications</font>
+## <font size=5>Publications</font>
 
 <ul>
 <li><a href="{{ "/research/paper01.html" | relative_url }}">PAPER1</a> <span class="label label-default">type1</span><ul><li>Presented at xxx</li></ul><details><summary>[Abstract]</summary>xxxxx.</details></li>
 <li><a href="{{ "/research/paper01.html" | relative_url }}">PAPER2</a><details><summary>[Abstract]</summary>xxxxx.</details></li>
 </ul>
 
+---
+
+## <font size=5>Working Paper</font>
+
+<ul>
+<li><a href="{{ "/research/paper01.html" | relative_url }}">PAPER1</a> <span class="label label-default">type1</span><ul><li>Presented at xxx</li></ul><details><summary>[Abstract]</summary>xxxxx.</details></li>
+<li><a href="{{ "/research/paper01.html" | relative_url }}">PAPER2</a><details><summary>[Abstract]</summary>xxxxx.</details></li>
+</ul>
 
 ---
 
-## <font face="Garamond" size=5>Working Paper</font>
+## <font size=5>Work in Progress</font>
 
-- ### [xxxxxx]({{ "/research/paper01.html" | relative_url }})
-
----
-
-## <font face="Garamond" size=5>Work in Progress</font>
-
-- ### [xxxxxx]({{ "/research/paper01.html" | relative_url }})
+<ul>
+<li><a href="{{ "/research/paper01.html" | relative_url }}">PAPER1</a> <span class="label label-default">type1</span><ul><li>Presented at xxx</li></ul><details><summary>[Abstract]</summary>xxxxx.</details></li>
+<li><a href="{{ "/research/paper01.html" | relative_url }}">PAPER2</a><details><summary>[Abstract]</summary>xxxxx.</details></li>
+</ul>
